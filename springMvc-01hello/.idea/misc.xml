@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../spring/spring07_mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc-02requestMapping" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc-03recevieparam" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc-04retuen" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc-05urlPatten" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc-06path" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc-07ssm" />
+    <file type="web" url="file://D:/A开发工具包/java学习/SpringMVCDL/源码/ch07-ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springMvc-02requestMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../springMvc-03recevieparam/pom.xml" />
+        <option value="$PROJECT_DIR$/../springMvc-04retuen/pom.xml" />
+        <option value="$PROJECT_DIR$/../springMvc-05urlPatten/pom.xml" />
+        <option value="$PROJECT_DIR$/../springMvc-06path/pom.xml" />
+        <option value="$PROJECT_DIR$/../springMvc-07ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../spring/spring07_mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

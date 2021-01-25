@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springMvc-hello" />
+        <module name="springMvc-02requestMapping" />
+        <module name="springMvc-05urlPatten" />
+        <module name="springMvc-03recevieparam" />
+        <module name="mybatis" />
+        <module name="springMvc-07ssm" />
+        <module name="springMvc-06path" />
+        <module name="springMvc-04retuen" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch07-ssm" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="springMvc-02requestMapping" target="1.8" />
+      <module name="springMvc-03recevieparam" target="1.8" />
+      <module name="springMvc-04retuen" target="1.8" />
+      <module name="springMvc-05urlPatten" target="1.8" />
+      <module name="springMvc-06path" target="1.8" />
+      <module name="springMvc-07ssm" target="1.8" />
+      <module name="springMvc-hello" target="1.8" />
+      <module name="springMvc-hello (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

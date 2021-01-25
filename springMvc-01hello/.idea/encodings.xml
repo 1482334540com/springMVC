@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../spring/spring07_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../spring/spring07_mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-02requestMapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-02requestMapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-03recevieparam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-03recevieparam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-04retuen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-04retuen/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-05urlPatten/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-05urlPatten/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-06path/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-06path/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-07ssm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springMvc-07ssm/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/A开发工具包/java学习/SpringMVCDL/源码/ch07-ssm/src/main/java" charset="UTF-8" />
+  </component>
+</project>
